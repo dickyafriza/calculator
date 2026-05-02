@@ -18,3 +18,4 @@ A script that calculates simple interest given principal, annual rate of interes
 
 ## About
 This project is created as part of the IBM Full Stack Software Developer Professional Certificate on Coursera.
+Typo fix
